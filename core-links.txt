@@ -5,3 +5,9 @@ sort.cpp: https://raw.githubusercontent.com/just-for-cheating/lp5/main/hpc/sort.
 min-max.cpp: https://raw.githubusercontent.com/just-for-cheating/lp5/main/hpc/min-max.cpp
 cuda-add.cpp: https://raw.githubusercontent.com/just-for-cheating/lp5/main/hpc/cuda-add.cpp
 cuda-mul.cpp: https://raw.githubusercontent.com/just-for-cheating/lp5/main/hpc/cuda-mul.cpp
+
+DL:
+
+lr.py: https://raw.githubusercontent.com/just-for-cheating/lp5/main/dl/lr.py
+imdb.py: https://raw.githubusercontent.com/just-for-cheating/lp5/main/dl/imdb.py
+cnn.py: https://raw.githubusercontent.com/just-for-cheating/lp5/main/dl/cnn.py
