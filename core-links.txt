@@ -1,0 +1,7 @@
+HPC:
+
+BFS_DFS: https://raw.githubusercontent.com/just-for-cheating/lp5/main/hpc/bfs-dfs.cpp
+SORT: https://raw.githubusercontent.com/just-for-cheating/lp5/main/hpc/sort.cpp
+MIN_MAX: https://raw.githubusercontent.com/just-for-cheating/lp5/main/hpc/min-max.cpp
+CUDA_ADD: https://raw.githubusercontent.com/just-for-cheating/lp5/main/hpc/cuda-add.cpp
+CUDA_MUL: https://raw.githubusercontent.com/just-for-cheating/lp5/main/hpc/cuda-mul.cpp
