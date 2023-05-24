@@ -11,3 +11,8 @@ DL:
 lr.py: https://raw.githubusercontent.com/just-for-cheating/lp5/main/dl/lr.py
 imdb.py: https://raw.githubusercontent.com/just-for-cheating/lp5/main/dl/imdb.py
 cnn.py: https://raw.githubusercontent.com/just-for-cheating/lp5/main/dl/cnn.py
+
+APNE WAALE:
+lr-1.py: https://raw.githubusercontent.com/just-for-cheating/lp5/main/dl/lr-1.py
+imdb-1.py: https://raw.githubusercontent.com/just-for-cheating/lp5/main/dl/imdb-1.py
+cnn-1.py: https://raw.githubusercontent.com/just-for-cheating/lp5/main/dl/cnn-1.py
